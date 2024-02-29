@@ -40,7 +40,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [Wladoo/llm](https://github.com/Wladoo/llm)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|02/25/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
